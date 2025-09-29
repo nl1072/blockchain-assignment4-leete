@@ -18,5 +18,8 @@ cd /<path>
 # Open the server
 npx http-server -p 8000
 
-# Open your browser and navigate to one of the IP addresses listed in the output.
+# Open your browser and navigate to the following address:
+http://localhost:8000/index.html
 ```
+
+## Note:
