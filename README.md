@@ -4,11 +4,12 @@
 
 ## Team Information
 
-Team Information | 
-Team #:  | 8
-RPC URL: | https://hh-08.didlab.org
-Chain ID: | 31344
-Token Address: | 0x5fbdb2315678afecb367f032d93f642f64180aa3
+| Team | Information | 
+| --- | --- |
+| Team #: | 8 |
+| RPC URL: | https://hh-08.didlab.org |
+| Chain ID: | 31344 |
+| Token Address: | 0x5fbdb2315678afecb367f032d93f642f64180aa3 | 
 
 
 To run locally:
