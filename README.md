@@ -23,5 +23,5 @@ http://localhost:8000/index.html
 ```
 
 ## Notes:
-* I have been very busy this weekend with both my part-time job and classwork, and this happened to be the last assignment on my to-do list, so I did not make any UI improvements or add additional safety checks.
+* I have been very busy this weekend with both my part-time job and classwork, and this happened to be the last assignment on my to-do list, so I did not make any UI improvements or add additional safety checks due to lack of time.
 * I had no issues with this assignment.
