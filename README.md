@@ -13,7 +13,7 @@
 To run locally (Node.js must be installed):
 ```
 # Navigate to project directory
-cd /<path>
+cd <path>
 
 # Open the server
 npx http-server -p 8000
