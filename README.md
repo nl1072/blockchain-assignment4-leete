@@ -4,7 +4,7 @@
 
 ## Team Information
 
-| Team | Information | 
+| Team | Information |
 | --- | --- |
 | Team #: | 8 |
 | RPC URL: | https://hh-08.didlab.org |
